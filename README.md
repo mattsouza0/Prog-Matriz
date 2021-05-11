@@ -1,2 +1,2 @@
 # Progmat
-QtCreator
+Qt Creator
